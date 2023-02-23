@@ -9,7 +9,8 @@ git clone https://github.com/drinkmonster/fetch
 ```
 cd fetch
 ```
-- make the funny
+- make the funny + make install the funny
 ```
 make
+sudo make install
 ```
