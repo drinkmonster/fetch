@@ -2,7 +2,7 @@
 - Simple fetch tool written in the C programming language
 ## Installation
 ```
-git clone https://github.com/benilol98/fetch
+git clone https://github.com/drinkmonster/fetch
 ```
 ```
 cd fetch
