@@ -69,6 +69,6 @@ int main(void) {
 		printf("%s", pk);
 	}
 	pclose(pak);
-  printf("bspwm: %s\n", wm);
+  printf("wm: %s\n", wm);
   printf("shell: %s\n", shell);
 }
