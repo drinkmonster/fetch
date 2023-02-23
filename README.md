@@ -14,3 +14,8 @@ cd fetch
 make
 sudo make install
 ```
+## How to uninstall :c
+- Go to the directory
+```
+sudo make uninstall
+```
